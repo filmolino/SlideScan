@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "task.h": "c",
+    "cable_release_codes.h": "c",
+    "unistd.h": "c",
+    "freertos.h": "c",
+    "cable_release.h": "c",
+    "esp_wifi.h": "c",
+    "esp_wifi_default.h": "c",
+    "esp_system.h": "c",
+    "esp_event.h": "c",
+    "cstddef": "c",
+    "limits": "c",
+    "esp_http_server.h": "c",
+    "rmt.h": "c"
+  }
+}

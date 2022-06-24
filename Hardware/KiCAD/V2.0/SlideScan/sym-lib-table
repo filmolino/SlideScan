@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SlideScan-rescue)(type Legacy)(uri ${KIPRJMOD}/SlideScan-rescue.lib)(options "")(descr ""))
+)
