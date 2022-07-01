@@ -3,7 +3,7 @@ Filmolino SlideScan is a device that makes it easy to scan slides in magazines f
  
 Thanks to the [M5StampC3 from M5Stack](https://shop.m5stack.com/collections/m5-controllers/products/m5stamp-c3-mate-with-pin-headers) using a [ESP32-C3 RISC-V microcontroller from Espressif](https://www.espressif.com/en/products/socs/esp32-c3) it is also possible to control the SlideScan through a web interface over WiFi. The scanner has it's own access point to which you can connect.
 
-Everything of the SlideScan is open source, so you can easy build your own! If you don't want to build your own SlideScan and prefer to buy one please contact me.
+Everything of the SlideScan is open source, so you can easy build your own!
 
 ## Guide
 ### Camera connection
