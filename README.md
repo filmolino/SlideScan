@@ -1,4 +1,7 @@
 # SlideScan
+
+**Note:** There is a new version of the slide scanner using a M5Stack Fire for more info visit [Filmolino SlideScanner](https://github.com/filmolino/SlideScanner)
+
 Filmolino SlideScan is a device that makes it easy to scan slides in magazines fully automatic using a modified slide projector and a digital camera. It controls the slide projector and a digital camera using a cable release or an infrared remote control (Nikon, Canon, Pentax, Sony, Olympus, Minolta). It is powered directly from the slide projector or over a mini USB connector. New cable releases and IR controls can easy be added to the software. 
  
 Thanks to the [M5StampC3 from M5Stack](https://shop.m5stack.com/collections/m5-controllers/products/m5stamp-c3-mate-with-pin-headers) using a [ESP32-C3 RISC-V microcontroller from Espressif](https://www.espressif.com/en/products/socs/esp32-c3) it is also possible to control the SlideScan through a web interface over WiFi. The scanner has it's own access point to which you can connect.
